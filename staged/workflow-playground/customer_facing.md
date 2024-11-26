@@ -1,2 +1,0 @@
-- **Feature2**: some unique text
-- **Feature1**: some other
