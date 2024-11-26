@@ -1,2 +1,0 @@
-- **Feature2**: extra new
-- **Feature1**: some other
