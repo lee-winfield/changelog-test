@@ -1,2 +1,4 @@
 - **Feature1**: some behind the scenes changes
 - **Feature1**: new day new me
+- **Feature1**: some behind the scenes changes
+- **Feature4**: some new customer facing changes
